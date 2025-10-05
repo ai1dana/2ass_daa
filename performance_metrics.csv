@@ -1,0 +1,6 @@
+input_size,time_ns,comparisons,swaps,algorithm
+9,541327738513999,18,0,BoyerMooreMajorityVote
+100,576459351779000,200,0,200,1,BoyerMooreMajorityVote
+1000,576459389947200,2000,0,2000,1,BoyerMooreMajorityVote
+10000,576459400986400,20000,0,20000,1,BoyerMooreMajorityVote
+100000,576459432985000,200000,0,200000,1,BoyerMooreMajorityVote
